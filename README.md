@@ -1,8 +1,6 @@
-# Rutgers-CS
+# Rutgers CS211: Computer Architecture
 
-This repository contains my solutions to programming assignments for the courses I've taken at Rutgers. All code is original; any assignments that included drivers, classes, or any other code written by professors is not included here so as not to take credit for their work.
-
-<h2>CS211: Computer Architecture</h2>
+Programming assignments from Computer Architecture.
 
 <b>PA1:</b> 9 short programs that emulate basic operations and data structures in C.
 
